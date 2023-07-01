@@ -1,0 +1,33 @@
+
+body {
+    text-align: center;
+}
+.Icon-1 {
+    width: 80px;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.56);
+    
+   
+
+}
+
+.Icon-1 a {
+    text-align: center;
+     padding: 12px;
+     transition: all 1s ;
+     
+     color: white;
+    display: block;
+     font-size: 40px;
+     
+}
+.Icon-1 a:hover {
+    background-color: rgb(24, 2, 94);
+    border-radius: 12px;
+    margin-top: 8px;
+}
+
+
+.active {
+    background-color: brown;
+}
